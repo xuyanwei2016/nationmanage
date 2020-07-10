@@ -1,0 +1,40 @@
+.backgroundDialog .el-dialog__header {
+    border-bottom: 1px solid #dcdfe6;
+}
+.backgroundDialog .el-dialog {
+    width: 458px;
+}
+.backgroundDialog .el-dialog__body {
+    padding: 10px 20px !important;
+    text-align: left !important;
+}
+.backgroundDialog .el-upload-list {
+    width: 418px;
+    height: 189px;
+    border: 1px solid #a9a9a9;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    overflow: auto;
+    margin: 10px auto 0;
+}
+.backgroundDialog .el-upload {
+    position: absolute;
+    bottom: 19px;
+}
+.backgroundDialog .el-input {
+    width: 146px;
+}
+.backgroundDialog .el-form-item {
+    display: inline-block;
+    padding: 0;
+}
+.el-form--inline .el-form-item {
+    margin-right: 0;
+}
+.dialogbtns {
+    margin-left: 242px;
+}
+.info {
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,12 @@
+[0730/142405.707:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作超时 (0x2ee2)
+[0801/161652.796:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作超时 (0x2ee2)
+[0802/095036.975:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作超时 (0x2ee2)
+[0807/145810.091:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作超时 (0x2ee2)
+[0822/163907.019:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: {没有足够配额} 没有足够的虚拟内存或分页文件配额以完成指定的操作。 (0xc0000017)
+[0822/164113.856:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作超时 (0x2ee2)
+[0824/164218.321:WARNING:minidump_to_upload_parameters.cc(66)] duplicate annotation name metrics_client_id, discarding value 2d8a5a2d04b5405397eb1f9f5a1d1808
+[0824/164424.575:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作超时 (0x2ee2)
+[1219/163714.562:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作超时 (0x2ee2)
+[1226/154134.426:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作超时 (0x2ee2)
+[0102/171017.504:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作超时 (0x2ee2)
+[0130/170030.765:ERROR:http_transport_win.cc(273)] WinHttpSendRequest: 操作超时 (0x2ee2)
