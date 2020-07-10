@@ -7070,6 +7070,11 @@ tiny-emitter@^2.0.0:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/tiny-emitter/-/tiny-emitter-2.0.2.tgz#82d27468aca5ade8e5fd1e6d22b57dd43ebdfb7c"
 
+tinymce@^5.2.2:
+  version "5.4.1"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.4.1.tgz#4c101e78cbd22c148d6013f7c66eb0cb480723db"
+  integrity sha512-eUjwDVCTSHSnFfpzX5TjTHXsGj5gvPQwzo3RFDF374gfK5voHqcRGojvQnu4NtNW1BAb012/KW1tkXBbUrEveg==
+
 tmp@^0.0.33:
   version "0.0.33"
   resolved "https://registry.yarnpkg.com/tmp/-/tmp-0.0.33.tgz#6d34335889768d21b2bcda0aa277ced3b1bfadf9"
@@ -7669,8 +7674,9 @@ websocket-driver@>=0.5.1:
     websocket-extensions ">=0.1.1"
 
 websocket-extensions@>=0.1.1:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.3.tgz#5d2ff22977003ec687a4b87073dfbbac146ccf29"
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
+  integrity sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==
 
 whet.extend@~0.9.9:
   version "0.9.9"
