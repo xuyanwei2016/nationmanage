@@ -1617,13 +1617,10 @@ codemirror-spell-checker@*:
   dependencies:
     typo-js "*"
 
-codemirror@*:
-  version "5.39.0"
-  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.39.0.tgz#4654f7d2f7e525e04a62e72d9482348ccb37dce5"
-
-codemirror@5.32.0:
-  version "5.32.0"
-  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.32.0.tgz#cb6ff5d8ef36d0b10f031130e2d9ebeee92c902e"
+codemirror@*, codemirror@5.58.2:
+  version "5.58.2"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.58.2.tgz#ed54a1796de1498688bea1cdd4e9eeb187565d1b"
+  integrity sha512-K/hOh24cCwRutd1Mk3uLtjWzNISOkm4fvXiMO7LucCrqbh6aJDdtqUziim3MZUI6wOY0rvY1SlL1Ork01uMy6w==
 
 codepage@~1.12.0:
   version "1.12.2"
@@ -7069,6 +7066,11 @@ timers-browserify@^2.0.4:
 tiny-emitter@^2.0.0:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/tiny-emitter/-/tiny-emitter-2.0.2.tgz#82d27468aca5ade8e5fd1e6d22b57dd43ebdfb7c"
+
+tinymce@^5.2.2:
+  version "5.8.0"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.8.0.tgz#3ffd1d96da2619153bd0bd2023a382052339bb0a"
+  integrity sha512-1bOI3k+1D76rVjAJC3XkHezXJVghurnKBDREF1STHBLTQUY17XTbaDNJUxNgJqJHa2xg1udd5I1bzdfSd77DGw==
 
 tmp@^0.0.33:
   version "0.0.33"
